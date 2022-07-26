@@ -99,3 +99,19 @@ ul ul a {
     padding-left: 30px !important;
     background: #ba8760;
 }
+
+.btn-info {
+    color: #fff;
+    background-color: #ba8760;
+    border-color: #ba8760;
+}
+.btn-info:hover {
+    color: #fff;
+    background-color:#602e09;
+    border-color: #602e09; 
+}
+.btn-info:active {
+    color: #fff;
+    background-color:#602e09;
+    border-color: #602e09; 
+}
