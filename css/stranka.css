@@ -1,17 +1,26 @@
-
-
-<style>
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color:#602e09;
-  color: white;
-  text-align: center;
+.header {
+    padding: 5%;
+    text-align: center;
+    background: #602e09;
+    color: white;
+    font-size: 20px;}
+    
+body {
+    padding: 10px;
+    font-size: medium;
+    text-align: center;
+    background-color: white;
+    color:black;
 }
-</style>
+footer {
+    padding: 3%;
+    font-size: medium;
+    text-align: center;
+    background-color: #602e09;
+    color:
+}
 
-<div class="footer">
-  <p>Footer</p>
-</div> 
+.email
+{
+    list-style-image: url("grafika/2.png");
+}
