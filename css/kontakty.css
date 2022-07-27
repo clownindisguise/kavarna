@@ -1,0 +1,27 @@
+.mapouter .gmap_canvas{
+    align-items: right;
+    overflow:hidden;
+    position:right;    
+}
+
+.header {
+    padding: 5%;
+    text-align: center;
+    background: #602e09;
+    color: white;
+    font-size: 20px;}
+    
+body {
+    padding: 10px;
+    font-size: medium;
+    text-align: center;
+    background-color: white;
+    color:black;
+}
+footer {
+    padding: 3%;
+    font-size: medium;
+    text-align: right;
+    background-color: #602e09;
+    color: white
+}
