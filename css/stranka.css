@@ -16,3 +16,10 @@ body {
     color: black;
     font-family: fantasy
 }
+
+img {
+    float: left;
+    width: 250px;
+    height: auto;
+    margin: 15px;
+}
