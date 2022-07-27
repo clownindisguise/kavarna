@@ -1,23 +1,17 @@
 .wrapper {
     display: flex;
     align-items: stretch;
-    height:607px
 }
 
 #sidebar {
     min-width: 250px;
     max-width: 250px;
-    height: 607px;
 }
 
 #sidebar.active {
     margin-left: -250px;
-    height: 607px
 }
 
-.content {
-    height: 607px;
-}
 
 a[data-toggle="collapse"] {
     position: relative;
@@ -145,47 +139,5 @@ ul ul a {
     background-color: #602e09;
     border-color: #602e09;
 }
-
-.fotkakavarny {
-    background: url(./../obrazky/cafe1.jpg);
-    color: white;
-    height: 607px;
-    flex: auto;
-    width: 90%;
-}
-
-.logokavarny {
-    height: auto;
-}
-
-.logokavarny img {
-    width: 100%
-}
-
-.menu {
-  display: flex;
-  flex-wrap:wrap;
-  align-items: center;
-  justify-content: center;
-  background-color: #ba8760;
-  width: 100%;
-}
-.menu img {
-    max-width: 30vw;
-    min-width: 300px;
-}
-
-.jidlolink {
-
-}
-
-.dezertylink {
-
-}
-
-.napojelink {
-
-}
-
 
 
