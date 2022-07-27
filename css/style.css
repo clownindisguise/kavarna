@@ -136,6 +136,6 @@ ul ul a {
 
 .btn-info:active {
     color: #fff;
-    background-color: #602e09;
-    border-color: #602e09;
+    background-color: #602e09 !important;
+    border-color: #602e09 !important;
 }
