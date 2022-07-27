@@ -7,11 +7,12 @@
 }
 
 .kontaktni-info {
-    box-sizing: border-box;
     padding: 5px;
     border: 10px;
     font-size: medium;
+    font-family: 'Roboto', sans-serif;
     background-color: white;
+
     color: black;
     width: 48%;
     float: left;
@@ -58,4 +59,5 @@
 
 .vseko {
     display: flex;
+    padding: 10px
 }
