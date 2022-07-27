@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .wrapper {
     display: flex;
     align-items: stretch;
@@ -99,3 +100,16 @@ ul ul a {
     padding-left: 30px !important;
     background: #ba8760;
 }
+=======
+<footer> {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    background: #602e09;
+    color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+<footer/>
+>>>>>>> Stashed changes
