@@ -1,8 +1,8 @@
-.container{
-  position: sticky;
-  column-count: 4;
-  padding: 20px;
-}
+.contain{
+    position: sticky;
+    column-count: 4;
+    padding: 20px;
+  }
 
 .image{
   display: inline-block;
@@ -24,7 +24,7 @@ h4{
   padding: 5px;
   margin: 5px;
   font-size: 25px;
-  background-color: rgb(247, 0, 0);
+  background-color: #421c00;
   color: white;
   border-radius: 5px;
   opacity: 0;
