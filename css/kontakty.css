@@ -1,7 +1,7 @@
-.mapouter .gmap_canvas{
+.mapouter .gmap_canvas {
     align-items: right;
-    overflow:hidden;
-    position:right;    
+    overflow: hidden;
+    position: right;
 }
 
 .header {
@@ -9,15 +9,17 @@
     text-align: center;
     background: #602e09;
     color: white;
-    font-size: 20px;}
-    
+    font-size: 20px;
+}
+
 body {
     padding: 10px;
     font-size: medium;
     text-align: center;
     background-color: white;
-    color:black;
+    color: black;
 }
+
 footer {
     padding: 3%;
     font-size: medium;

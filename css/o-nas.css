@@ -4,14 +4,15 @@
     text-align: center;
     background: url(./../obrazky/cafe1.jpg);
     color: white;
-    font-size: 20px;}
-    
+    font-size: 20px;
+}
+
 body {
     padding: 10px;
     font-size: medium;
     text-align: center;
     background-color: #ffffff;
-    color:#0a0603;
+    color: #0a0603;
 }
 
 .text {
@@ -20,7 +21,7 @@ body {
     font-size: medium;
     text-align: center;
     background-color: #ffffff;
-    color:#000000;
+    color: #000000;
 }
 
 .header {
@@ -28,15 +29,17 @@ body {
     text-align: center;
     background: #602e09;
     color: white;
-    font-size: 20px;}
-    
+    font-size: 20px;
+}
+
 body {
     padding: 10px;
     font-size: medium;
     text-align: center;
     background-color: white;
-    color:black;
+    color: black;
 }
+
 footer {
     padding: 3%;
     font-size: medium;

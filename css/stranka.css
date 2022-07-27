@@ -3,15 +3,20 @@
     text-align: center;
     background: #602e09;
     color: white;
-    font-size: 20px;}
-    
+    font-size: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+
 body {
     padding: 10px;
     font-size: medium;
     text-align: center;
     background-color: white;
-    color:black;
+    color: black;
+    font-family: fantasy
 }
+
 footer {
     padding: 3%;
     font-size: medium;
@@ -20,8 +25,16 @@ footer {
     color: white
 }
 
-.email
-{
-    list-style-image: url("./../obrazky/grafika/2.png");
-    
+footer ul {
+    width: 300px;
+    text-align: left;
+    list-style-type: none;
+}
+
+#footer {
+    background-image: url("./grafika/2.png");
+    padding-left: 20px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 200px;
 }
