@@ -161,6 +161,19 @@ ul ul a {
   flex-wrap:wrap;
   align-items: center;
   justify-content: center;
-  background-color: #ba8760
+  background-color: #ba8760;
+  width: 100%;
+}
+
+.jidlolink {
+
+}
+
+.dezertylink {
+
+}
+
+.napojelink {
+
 }
 
