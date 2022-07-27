@@ -115,3 +115,16 @@ ul ul a {
     background-color:#602e09;
     border-color: #602e09; 
 }
+
+.fotkakavarny {
+    background: url(./../obrazky/cafe1.jpg);
+    color: white;
+    min-height: 607px;
+    flex: auto;
+}
+
+.logokavarny {
+    height: auto;
+    width: auto;
+    justify-content: center;
+}
