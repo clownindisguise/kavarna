@@ -150,3 +150,9 @@ ul ul a {
 .logokavarny img {
     width: 100%
 }
+
+.menu {
+    flex-wrap:wrap;
+    padding: 0%;
+}
+
