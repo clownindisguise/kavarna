@@ -6,25 +6,28 @@
 
 
 Nápojový lístek
-Espresso
-Turecká káva
-Vídeňská káva
+
+Espresso--------------------------------------
+Turecká káva----------------------------------
+Vídeňská káva---------------------------------
 Horká čokoláda
 Capuccino
 Caffe latte
 Frapé
 Ledová káva se zmrzlinou
 Americano
-Caffe affogato - se zmrzlinou
+Caffe affogato - se zmrzlinou------------------
+
 Čaj - různé druhy
-0,33 l Aquila neperlivá/perlivá
-0,25 l Ledový čaj citron
+0,33 l Aquila neperlivá/perlivá---------------
+0,25 l Ledový čaj citron---------------------
 
 
 Džusy
 0,2 l Jablko
 0,2 l Jahoda
-0,2 l Černý rybíz
-0,2 l Multivitamín
-0,2 l Pomeranč
+0,2 l Černý rybíz------------------------------
+0,2 l Multivitamín-------------------------------
+0,2 l Pomeranč----------------------------------
 0,33 l Mošt jablečný
+
