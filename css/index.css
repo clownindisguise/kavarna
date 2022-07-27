@@ -140,6 +140,7 @@ ul ul a {
     color: white;
     height: 607px;
     flex: auto;
+    width: fit-content;
 }
 
 .logokavarny {
