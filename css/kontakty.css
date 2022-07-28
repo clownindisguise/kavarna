@@ -53,16 +53,17 @@
     display: flex;
     padding: 10px
 }
-@media screen and (min-width: 1024px){
-  .gmap_canvas {
-    width: 48%;
-    padding: 5px;
-    overflow: hidden;
-    float: right;
-    background: none !important;
-    height: 445px;
-    width: 604px;
-}  
+
+@media screen and (min-width: 1024px) {
+    .gmap_canvas {
+        width: 48%;
+        padding: 5px;
+        overflow: hidden;
+        float: right;
+        background: none !important;
+        height: 445px;
+        width: 604px;
+    }
 }
 
 @media screen and (min-width: 300px) and (max-width: 1023px) {
@@ -71,15 +72,18 @@
         flex-wrap: wrap;
         padding: 10px
     }
-    .kontaktni-info{
+
+    .kontaktni-info {
         width: 100%;
     }
-    #gmap_canvas{
+
+    #gmap_canvas {
         width: 100%;
     }
+
     .gmap_canvas {
         width: 100%;
         padding: 5px;
         background: none !important;
-    }  
+    }
 }
