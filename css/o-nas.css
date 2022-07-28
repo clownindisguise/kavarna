@@ -52,7 +52,16 @@ footer {
         width: 400px;
         height: 250px;
     }
+
+    .pred {
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 200px;
+        margin-right: 200px;
+
+    }
 }
+
 
 @media screen and (min-width: 300px) and (max-width: 1023px) {
     .sklep {
@@ -68,5 +77,11 @@ footer {
         flex-wrap: wrap;
         padding: 5px;
         width: 100%;
+    }
+
+    .pred {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
     }
 }
