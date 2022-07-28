@@ -41,8 +41,16 @@ footer {
 }
 
 @media screen and (min-width: 1024px) {
+    .fotkanase {
+        align-items: center;
+        width: 850px;
+        height: 450px;
+        padding: 5px;
+    }
+
     .sklep {
-        d
+        width: 400px;
+        height: 250px;
     }
 }
 
@@ -50,7 +58,15 @@ footer {
     .sklep {
         display: flex;
         flex-wrap: wrap;
-        width: 100%;
+        width: 80%;
         padding: 5px;
+        align-items: center;
+    }
+
+    .fotkanase {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 5px;
+        width: 100%;
     }
 }
